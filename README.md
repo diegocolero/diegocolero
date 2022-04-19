@@ -7,3 +7,5 @@ At the moment working with GAS ([Google Apps Script](https://developers.google.c
 Learning Odoo plugins/dev
 
 Vipzone
+
+Waiting for I/O Google 22
