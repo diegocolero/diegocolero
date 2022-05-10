@@ -8,4 +8,4 @@ Learning Odoo plugins/dev
 
 --
 
-Waiting for I/O Google 22
+I/O Google 22
