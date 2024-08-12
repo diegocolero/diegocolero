@@ -6,5 +6,6 @@ Learning Odoo plugins/dev
 
 --
 
-I/O Google 22
-I/O Google 23 ?
+I/O Google 22 ✔️
+I/O Google 23 ✔️
+I/O Google 24 ✔️
