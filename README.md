@@ -1,8 +1,8 @@
 🥴
 
-At the moment working with GAS ([Google Apps Script](https://developers.google.com/apps-script)) and learning [Vue](https://vuejs.org/) and [Astro](https://astro.build/)
+Web Developer | Backend | Frontend
 
-Learning Odoo plugins/dev
+Odoo Developer
 
 --
 
